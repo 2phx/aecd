@@ -1,1 +1,4 @@
-{aecdUsdt: { high: 3.69, low: 3.66 }}
+{
+  "aecdUsdt": 3.66, 
+  "wallets": { "erc20": "0x97359489f051f0B3372a77E1C3790b68B89939Ca", "trc20": "TKj7cwJKGF75ePbUuQeuhQ8TEAsiWjn9Wf", "ton": "EQC2VPhToGGxV04vsBzm5_tsHJnfb7HAoT9T-rne5IDmZsO9" }  
+}
